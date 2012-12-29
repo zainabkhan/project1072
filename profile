@@ -6,12 +6,12 @@
 	<meta name="description" content="My Site" />
 	<meta name="keywords" content="key, words" />	
 	<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
-	<title>Asset Tracking System</title>
+	<title>my profile </title>
 </head>
 <body>
 	<div id="content">
 		<div id="top_info">
-			<p>Welcome to<b> Asset Tracking</b><span id="loginbutton"><a href="#" >&nbsp;</a></span><br />
+			<p>Welcome to<b> My profile </b><span id="loginbutton"><a href="#" >&nbsp;</a></span><br />
 		</div>
 		
 		<div id="logo">
